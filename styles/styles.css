@@ -1,7 +1,8 @@
 :root {
     --main-text-color:#737373;
+    --titel-number-color: #252B42;
     /* ----------------------------- */
-    --main-bg-color:#FFFFFF;
+    --main-bg-color:#FAFAFA;
 }
 body {
     font-style: 'Montserrat', sans-serif;
@@ -19,6 +20,7 @@ body {
     text-decoration: none;
 }
 .container {
+    /* outline: 1px solid red; */
     width: 1050px;
     margin: 0 auto;
     padding-left: 15px;
@@ -31,10 +33,17 @@ ul,li{
     margin: 0;
     padding: 0;
 }
+
 /*---------------- Header -------------------- */
-.nav-link {
-    color: inherit;
-    font-weight: 600;
-    line-height: 1.71;
-}
-/*---------------- Main ------------------ */
+
+
+
+
+
+
+
+
+
+
+
+
